@@ -1,0 +1,53 @@
+{
+    "statusmessage": "Successful",
+    "statusCode": 1,
+    "data": {
+        "userList": [
+            {
+                "id": 1,
+                "name": "pushp",
+                "email": "pushp@gmail.com",
+                "userVerificationStatus": "done",
+                "bankAccountLinked": "true",
+                "KYC": "done",
+                "verificationDocument": "PAN"
+            },
+            {
+                "id": 1,
+                "name": "pushp",
+                "email": "pushp@gmail.com",
+                "userVerificationStatus": "pending",
+                "bankAccountLinked": "true",
+                "KYC": "done",
+                "verificationDocument": "Adhaar Card"
+            },
+            {
+                "id": 1,
+                "name": "pushp",
+                "email": "pushp@gmail.com",
+                "userVerificationStatus": "in progress",
+                "bankAccountLinked": "false",
+                "KYC": "pending",
+                "verificationDocument": "PAN"
+            },
+            {
+                "id": 1,
+                "name": "pushp",
+                "email": "pushp@gmail.com",
+                "userVerificationStatus": "done",
+                "bankAccountLinked": "false",
+                "KYC": "in progress",
+                "verificationDocument": "Driving License"
+            },
+            {
+                "id": 1,
+                "name": "pushp",
+                "email": "pushp@gmail.com",
+                "userVerificationStatus": "pending",
+                "bankAccountLinked": "true",
+                "KYC": "done",
+                "verificationDocument": "Voter card"
+            }
+        ]
+    }
+}

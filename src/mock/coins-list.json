@@ -1,0 +1,80 @@
+{
+    "statusmessage": "Successful",
+    "statusCode": 1,
+    "data": {
+        "stockCoinList": [
+            {
+                "id": 1,
+                "coinName": "PUSH",
+                "lastPrice": "INR 355.55",
+                "prevDayRateChange": "+0.96%",
+                "minBiddingPrice": "INR 320",
+                "maxSellingPrice": "INR 390",
+                "priceHistory": "yes"
+            },
+            {
+                "id": 2,
+                "coinName": "USDT",
+                "lastPrice": "INR 155.55",
+                "prevDayRateChange": "+0.96%",
+                "minBiddingPrice": "INR 320",
+                "maxSellingPrice": "INR 390",
+                "priceHistory": "yes"
+            },
+            {
+                "id": 3,
+                "coinName": "TRON",
+                "lastPrice": "INR 355.55",
+                "prevDayRateChange": "+0.96%",
+                "minBiddingPrice": "INR 320",
+                "maxSellingPrice": "INR 390",
+                "priceHistory": "yes"
+            },
+            {
+                "id": 4,
+                "coinName": "BITCOIN",
+                "lastPrice": "INR 255.55",
+                "prevDayRateChange": "+0.96%",
+                "minBiddingPrice": "INR 320",
+                "maxSellingPrice": "INR 390",
+                "priceHistory": "NA"
+            },
+            {
+                "id": 5,
+                "coinName": "BINANCE COIN",
+                "lastPrice": "INR 355.55",
+                "prevDayRateChange": "+0.96%",
+                "minBiddingPrice": "INR 320",
+                "maxSellingPrice": "INR 390",
+                "priceHistory": "yes"
+            },
+            {
+                "id": 6,
+                "coinName": "LITCOIN",
+                "lastPrice": "INR 655.55",
+                "prevDayRateChange": "+0.96%",
+                "minBiddingPrice": "INR 320",
+                "maxSellingPrice": "INR 390",
+                "priceHistory": "NA"
+            },
+            {
+                "id": 7,
+                "coinName": "BINANCE COIN",
+                "lastPrice": "INR 355.55",
+                "prevDayRateChange": "+0.96%",
+                "minBiddingPrice": "INR 320",
+                "maxSellingPrice": "INR 390",
+                "priceHistory": "yes"
+            },
+            {
+                "id": 8,
+                "coinName": "BITCOIN CASH",
+                "lastPrice": "INR 455.55",
+                "prevDayRateChange": "+0.96%",
+                "minBiddingPrice": "INR 320",
+                "maxSellingPrice": "INR 390",
+                "priceHistory": "yes"
+            }
+        ]
+    }
+}
